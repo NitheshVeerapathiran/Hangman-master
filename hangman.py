@@ -184,3 +184,6 @@ while inPlay:
 pygame.quit()
 
 # always quit pygame when done!
+
+'''
+Comment added to test the VCS Functionality in Pycharm - Vijoy'''
